@@ -1,5 +1,3 @@
-# Socket Server Basico
+# App de Tickets con Módulos
 
-Un servidor de Websockets usando Node, Express y Socket.io
-
-Temas cubiertos en mi curso de Node de cero a experto
+Una aplicación sencilla con Node, Express y Socket.io para aplicación de cola con tickets y módulos.
